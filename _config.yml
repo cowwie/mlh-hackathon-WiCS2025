@@ -63,17 +63,17 @@ event:
   info:
     sections:
       - image: "images/image1.png"
-        title: "LEARN."
+        title: "EXPLORE."
         description: >
-          Explore and learn through hands-on workshops and activities.
+          Dive into immersive workshops and activities that broaden your perspective on travel, culture, and technology.
       - image: "images/image2.png"
-        title: "BUILD."
+        title: "CREATE."
         description: >
-          Bring your ideas to life with the support of our mentors and resources.
+          Transform your ideas into reality with guidance from experienced mentors and innovative resources.
       - image: "images/image3.png"
-        title: "SHARE."
+        title: "CONNECT."
         description: >
-          Present your innovative projects and share them with a community of like-minded individuals.
+          Share your journey and collaborate with a community passionate about exploration and discovery.
 
   # Frequently asked questions.
   faq:
